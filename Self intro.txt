@@ -36,3 +36,15 @@ with your needs.
 contributing to your team. 
 ● I want to express my gratitude for inviting me to the interview.
 
+
+Clasic intro 
+Good morning, and thank you for having me. My name is Vishnu P, and I’m from Calicut. I’m a BCA graduate and a certified penetration tester with a strong passion for cybersecurity. I recently completed a 7-month self-learning program at Brototype, where I honed my skills in ethical hacking, vulnerability assessment, and network security. Currently, I’m expanding my expertise in DevSecOps, focusing on building secure and resilient systems. I’m a quick learner who is always striving to stay ahead of the curve with the latest trends in cybersecurity. I’m excited about the opportunity to kickstart my career, face new challenges, and contribute to building secure digital environments. I’m honored to be considered for this role and look forward to the possibility of contributing to your team.
+
+Profesional Intro
+
+Good morning, thank you for having me. I’m Vishnu P from Calicut, a BCA graduate and certified penetration tester passionate about cybersecurity. I completed a 7-month self-learning program at Brototype, sharpening my skills in ethical hacking and vulnerability assessment. Currently, I’m diving into DevSecOps to enhance my expertise in building secure systems. As a quick learner, I stay updated with the latest cybersecurity trends and am eager to kickstart my career, tackling challenges and contributing to secure digital environments. It’s an honour to be considered for this role, and I’m excited to contribute to your team. Thank you for this opportunity.
+
+
+
+
+

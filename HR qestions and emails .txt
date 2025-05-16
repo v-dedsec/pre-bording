@@ -1,0 +1,229 @@
+**Session 1: HR Interview Questions for Freshers (General, Behavioral & Tricky)**
+
+1. **Tell me about yourself.**
+   Sample Answer:
+   I'm a recent graduate in \[Your Degree] from \[Your College]. I'm a quick learner, team-oriented, and eager to start my professional journey. During college, I participated in workshops and took part in group projects, which helped me improve my communication and problem-solving skills.
+
+2. **What are your strengths?**
+   Sample Answer:
+   I’m good at learning new things quickly, staying calm under pressure, and paying attention to detail. I also work well in a team and enjoy collaborating to solve problems.
+
+3. **What are your weaknesses?**
+   Sample Answer:
+   I sometimes hesitate to ask for help, thinking I should figure everything out myself. But I’ve learned that asking questions is actually a strength, and I’ve started reaching out more when needed.
+
+4. **Describe a time when you faced a challenge and how you handled it.**
+   Sample Answer:
+   In college, I was part of a group project where two team members didn’t contribute much. I took the initiative to have a friendly conversation with them to understand their concerns. We redistributed the work based on everyone’s strengths, and in the end, we submitted a successful project.
+
+5. **Have you ever had a conflict with a teammate? How did you resolve it?**
+   Sample Answer:
+   Yes, during a group assignment, there was a disagreement about how to approach the task. I stayed calm, listened to the other person’s perspective, and then shared my own. We agreed to combine both ideas, which worked better than expected.
+
+6. **Tell me about a time when you had to meet a tight deadline.**
+   Sample Answer:
+   In my final semester, I had back-to-back assignments due. I made a schedule, broke the work into smaller parts, and prioritized the most important tasks first. I managed to submit everything on time without compromising quality.
+
+7. **Are you comfortable working in a team?**
+   Sample Answer:
+   Yes, I enjoy working in teams because it allows for idea-sharing and better problem-solving. I’ve worked on several group projects where communication and cooperation led to great results.
+
+8. **What motivates you?**
+   Sample Answer:
+   I’m motivated by learning new things and achieving goals. I also feel satisfied when my work makes a difference or contributes to a team’s success.
+
+9. **How do you handle pressure or stress?**
+   Sample Answer:
+   I try to stay calm, break the problem into smaller steps, and focus on one thing at a time. I also take short breaks to stay fresh and avoid burnout.
+
+10. **Would you be willing to relocate or work in shifts?**
+    Sample Answer:
+    Yes, I’m flexible and open to relocation or working in shifts if the role requires it. I believe it’s a great opportunity to learn and grow.
+
+11. **Why should we hire you?**
+    Sample Answer:
+    As a fresher, I bring enthusiasm, a willingness to learn, and the ability to adapt quickly. I am confident that with the right guidance, I can contribute meaningfully and grow into the role.
+
+12. **Where do you see yourself in five years?**
+    Sample Answer:
+    In five years, I hope to have gained significant experience, developed strong technical and soft skills, and be taking on more responsibility in a role that aligns with my strengths and interests.
+
+13. **What would you do if you were assigned a task you’ve never done before?**
+    Sample Answer:
+    I would first try to understand the task by researching or reviewing available resources. If I still have doubts, I would reach out to a colleague or supervisor for guidance. I believe in being proactive and not hesitating to ask questions.
+
+14. **What would you do if you disagreed with your manager?**
+    Sample Answer:
+    I would respectfully discuss my point of view, backed with data or logic if needed. If the decision still goes the other way, I would support it fully and ensure the team succeeds.
+
+15. **If you had multiple deadlines on the same day, how would you prioritize?**
+    Sample Answer:
+    I would assess the urgency and impact of each task, break them down into smaller steps, and focus on completing the most critical ones first while ensuring constant communication with my manager if needed.
+
+---
+
+**Session 2: Professional HR Email Templates**
+
+1. **Follow-up Email After Interview**
+   Subject: Follow-Up on Interview for \[Job Title] – \[Your Name]
+
+Dear \[Interviewer's Name],
+
+Thank you for the opportunity to interview for the \[Job Title] position at \[Company Name] on \[Date]. It was a pleasure speaking with you and learning more about the role and the team.
+
+I remain very interested in the position and believe my background aligns well with the job requirements. Please let me know if there’s any additional information I can provide.
+
+Best regards,
+\[Your Full Name]
+
+2. **Thank You Email After Interview**
+   Subject: Thank You – \[Job Title] Interview
+
+Dear \[Interviewer's Name],
+
+Thank you for taking the time to speak with me about the \[Job Title] position. I enjoyed learning about the company culture and the exciting projects your team is working on.
+
+The discussion made me even more enthusiastic about the opportunity to contribute and grow with \[Company Name].
+
+Warm regards,
+\[Your Full Name]
+
+3. **Job Offer Acceptance Email**
+   Subject: Acceptance of Job Offer – \[Your Name]
+
+Dear \[Hiring Manager's Name],
+
+Thank you very much for offering me the position of \[Job Title] at \[Company Name]. I am delighted to accept the offer and am excited to join your team.
+
+As discussed, I will be starting on \[Start Date]. Please let me know if there are any forms or documents I should complete prior to joining.
+
+Best regards,
+\[Your Name]
+
+4. **Job Offer Decline Email**
+   Subject: Regarding Job Offer – \[Job Title]
+
+Dear \[Hiring Manager's Name],
+
+Thank you very much for offering me the \[Job Title] position at \[Company Name]. I truly appreciate the time and effort you and your team spent during the interview process.
+
+After careful consideration, I have decided to pursue another opportunity that aligns more closely with my current career goals.
+
+Warm regards,
+\[Your Name]
+
+5. **Response to Job Rejection Email**
+   Subject: Thank You for the Opportunity – \[Your Name]
+
+Dear \[Hiring Manager's Name],
+
+Thank you for letting me know about your hiring decision. While I’m disappointed I won’t be joining \[Company Name] at this time, I appreciate the opportunity to interview and learn more about your team.
+
+I would be grateful if you could keep me in mind for any future opportunities.
+
+Sincerely,
+\[Your Name]
+
+6. **Casual Leave Email (1–2 Days)**
+   Subject: Casual Leave Request for \[Date(s)]
+
+Dear \[Manager's Name],
+
+I would like to request casual leave on \[mention date(s)] due to \[brief reason]. I will ensure that all my tasks are up to date before I leave.
+
+Thank you for your understanding.
+
+Best regards,
+\[Your Name]
+
+7. **Sick Leave Email**
+   Subject: Sick Leave Request for \[Date(s)]
+
+Dear \[Manager's Name],
+
+I’m feeling unwell and would like to request sick leave for \[mention date(s)]. I will keep you informed of my recovery and share a medical certificate if needed.
+
+Thank you,
+\[Your Name]
+
+8. **Medical Leave (Longer Duration)**
+   Subject: Medical Leave Request from \[Start Date] to \[End Date]
+
+Dear \[Manager's Name],
+
+I would like to inform you that I have a medical condition requiring rest and treatment. I am requesting medical leave from \[Start Date] to \[End Date], as advised by my doctor.
+
+I will make sure all responsibilities are handed over properly.
+
+Sincerely,
+\[Your Name]
+
+9. **Annual Leave / Vacation Leave Request**
+   Subject: Leave Request for \[Start Date] to \[End Date]
+
+Dear \[Manager's Name],
+
+I would like to request annual leave from \[Start Date] to \[End Date] for \[mention reason]. I’ll ensure a proper handover before my leave and be available in case of any urgent queries.
+
+Thanks and regards,
+\[Your Name]
+
+10. **Extension of Leave Request**
+    Subject: Request for Extension of Leave
+
+Dear \[Manager's Name],
+
+I am currently on leave until \[Original End Date], but due to \[reason], I would like to request an extension until \[New End Date].
+
+Please let me know if any documentation is required.
+
+Best regards,
+\[Your Name]
+
+11. **Emergency Leave Email**
+    Subject: Urgent Leave Request
+
+Dear \[Manager's Name],
+
+I have had an unexpected personal emergency and will need to take leave starting today, \[mention date]. I will keep you posted on the situation and expected duration.
+
+Apologies for the short notice, and I appreciate your understanding.
+
+Sincerely,
+\[Your Name]
+
+12. **Work From Home Request Email**
+    Subject: Work from Home Request for \[Date(s)]
+
+Dear \[Manager's Name],
+
+I would like to request permission to work from home on \[mention date(s)] due to \[brief reason, e.g., personal reasons, mild illness]. I will ensure consistent availability and productivity during working hours.
+
+Thank you for your consideration.
+
+Regards,
+\[Your Name]
+
+13. **Comp-off Leave Request**
+    Subject: Comp-off Leave Request for \[Date]
+
+Dear \[Manager's Name],
+
+I would like to avail a compensatory off on \[mention date] for the extra hours worked on \[mention date/weekend/holiday]. I have ensured that all deliverables are on track.
+
+Please let me know if this is approved.
+
+Best regards,
+\[Your Name]
+
+14. **Joining Date Extension Request**
+    Subject: Request for Extension of Joining Date
+
+Dear \[Hiring Manager's Name],
+
+Thank you for the offer to join \[Company Name] as a \[Job Title]. Due to \[reason – e.g., personal obligations, academic requirements], I would like to kindly request an extension of my joining date to \[New Date], if possible.
+
+I remain committed to joining the organization and am excited about the opportunity.
+
+Sincerely,
+\[Your Name]

@@ -5,6 +5,7 @@ why- reason for the stack
 features-additional features rather than going for the commomn thing
 challanges-challanges that you faced what are the lesson that you learn from that 
 future - extra things that we want to add in outr project
+conclution-proper conclution
 
 
 
